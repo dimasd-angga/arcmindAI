@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "node api.js && next dev",
+    "build": "node api.js && next build",
+    "start": "node api.js && next start",
     "lint": "eslint",
     "format": "prettier --write \"**/*.{ts,tsx}\""
   },
@@ -36,6 +36,7 @@
     "googleapis": "^164.1.0",
     "input-otp": "^1.4.2",
     "jsonwebtoken": "^9.0.2",
+    "lottie-react": "^2.4.1",
     "lucide-react": "^0.548.0",
     "mermaid": "^11.12.1",
     "mongoose": "^8.19.2",
