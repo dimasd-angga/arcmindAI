@@ -1,0 +1,51 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "chore-refactoring-code",
+    "feat-about",
+    "feat-authentication",
+    "feat-frontendStructure",
+    "feat-generation",
+    "feat-github-integration",
+    "feat-history",
+    "feat-home",
+    "feat-payment",
+    "feat-tasks-generation",
+    "fix-staging",
+    "fix/issue-115-good-first-issue-add-skeleton-loader-for",
+    "main",
+    "staging"
+  ],
+  "parent": {
+    "chore-refactoring-code": "main",
+    "feat-about": "main",
+    "feat-authentication": "main",
+    "feat-frontendStructure": "main",
+    "feat-generation": "main",
+    "feat-github-integration": "main",
+    "feat-history": "main",
+    "feat-home": "main",
+    "feat-payment": "main",
+    "feat-tasks-generation": "main",
+    "fix-staging": "main",
+    "fix/issue-115-good-first-issue-add-skeleton-loader-for": "main",
+    "main": null,
+    "staging": "main"
+  },
+  "order": [
+    "main",
+    "chore-refactoring-code",
+    "feat-about",
+    "feat-authentication",
+    "feat-frontendStructure",
+    "feat-generation",
+    "feat-github-integration",
+    "feat-history",
+    "feat-home",
+    "feat-payment",
+    "feat-tasks-generation",
+    "fix-staging",
+    "fix/issue-115-good-first-issue-add-skeleton-loader-for",
+    "staging"
+  ]
+}
